@@ -39,6 +39,7 @@
     {"id":{"name":"FuncDataBase","path":"scripts/FuncDataBase/FuncDataBase.yy",},},
     {"id":{"name":"Bg_Menu","path":"sprites/Bg_Menu/Bg_Menu.yy",},},
     {"id":{"name":"collision","path":"sprites/collision/collision.yy",},},
+    {"id":{"name":"collision","path":"sprites/collision/collision.yy",},},
     {"id":{"name":"spr_Basiga","path":"sprites/spr_Basiga/spr_Basiga.yy",},},
     {"id":{"name":"spr_Collsion","path":"sprites/spr_Collsion/spr_Collsion.yy",},},
     {"id":{"name":"spr_Textbox","path":"sprites/spr_Textbox/spr_Textbox.yy",},},
