@@ -25,6 +25,7 @@
   },
   "name":"GusanosChidos",
   "resources":[
+    {"id":{"name":"obj_ButtonMenu","path":"objects/obj_ButtonMenu/obj_ButtonMenu.yy",},},
     {"id":{"name":"obj_Controller","path":"objects/obj_Controller/obj_Controller.yy",},},
     {"id":{"name":"obj_Mannager","path":"objects/obj_Mannager/obj_Mannager.yy",},},
     {"id":{"name":"obj_ParentItem","path":"objects/obj_ParentItem/obj_ParentItem.yy",},},
@@ -34,7 +35,9 @@
     {"id":{"name":"rmBattle","path":"rooms/rmBattle/rmBattle.yy",},},
     {"id":{"name":"rmGame","path":"rooms/rmGame/rmGame.yy",},},
     {"id":{"name":"rmInit","path":"rooms/rmInit/rmInit.yy",},},
+    {"id":{"name":"rmMenu","path":"rooms/rmMenu/rmMenu.yy",},},
     {"id":{"name":"FuncDataBase","path":"scripts/FuncDataBase/FuncDataBase.yy",},},
+    {"id":{"name":"Bg_Menu","path":"sprites/Bg_Menu/Bg_Menu.yy",},},
     {"id":{"name":"collision","path":"sprites/collision/collision.yy",},},
     {"id":{"name":"spr_Basiga","path":"sprites/spr_Basiga/spr_Basiga.yy",},},
     {"id":{"name":"spr_Collsion","path":"sprites/spr_Collsion/spr_Collsion.yy",},},
@@ -43,8 +46,9 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"rmBattle","path":"rooms/rmBattle/rmBattle.yy",},},
     {"roomId":{"name":"rmInit","path":"rooms/rmInit/rmInit.yy",},},
+    {"roomId":{"name":"rmMenu","path":"rooms/rmMenu/rmMenu.yy",},},
+    {"roomId":{"name":"rmBattle","path":"rooms/rmBattle/rmBattle.yy",},},
     {"roomId":{"name":"rmGame","path":"rooms/rmGame/rmGame.yy",},},
   ],
   "templateType":"game",
