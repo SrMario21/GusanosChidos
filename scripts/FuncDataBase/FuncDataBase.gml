@@ -25,8 +25,8 @@ function scr_Tienda() {
 		effect = _effect
 	}
 	
-	global.worms = {
-		item1: new create_worms(1,"Prueba","Este es un Test",function(){}),
+	global.items = {
+		item1: new create_items(1,"Prueba","Este es un Test",function(){}),
 	}
 	
 }
