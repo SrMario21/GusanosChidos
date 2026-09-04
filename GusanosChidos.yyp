@@ -14,6 +14,7 @@
     {"$GMFolder":"","%Name":"Rooms_Mario","folderPath":"folders/Rooms_Mario.yy","name":"Rooms_Mario","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Script_Mario","folderPath":"folders/Script_Mario.yy","name":"Script_Mario","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Sprite_Mario","folderPath":"folders/Sprite_Mario.yy","name":"Sprite_Mario","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"sprites","folderPath":"folders/sprites.yy","name":"sprites","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
   "ForcedPrefabProjectReferences":[],
   "IncludedFiles":[],
@@ -37,20 +38,17 @@
     {"id":{"name":"rmMenu","path":"rooms/rmMenu/rmMenu.yy",},},
     {"id":{"name":"FuncDataBase","path":"scripts/FuncDataBase/FuncDataBase.yy",},},
     {"id":{"name":"Bg_Menu","path":"sprites/Bg_Menu/Bg_Menu.yy",},},
-<<<<<<< HEAD
     {"id":{"name":"collision","path":"sprites/collision/collision.yy",},},
-=======
->>>>>>> 4f9210ded23a7641a06e04421eb85e4a327329a4
+    {"id":{"name":"collision","path":"sprites/collision/collision.yy",},},
     {"id":{"name":"spr_Basiga","path":"sprites/spr_Basiga/spr_Basiga.yy",},},
     {"id":{"name":"spr_Collsion","path":"sprites/spr_Collsion/spr_Collsion.yy",},},
-    {"id":{"name":"spr_Stand","path":"sprites/spr_Stand/spr_Stand.yy",},},
     {"id":{"name":"spr_Textbox","path":"sprites/spr_Textbox/spr_Textbox.yy",},},
+    {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
     {"roomId":{"name":"rmInit","path":"rooms/rmInit/rmInit.yy",},},
-    {"roomId":{"name":"rmMenu","path":"rooms/rmMenu/rmMenu.yy",},},
     {"roomId":{"name":"rmBattle","path":"rooms/rmBattle/rmBattle.yy",},},
     {"roomId":{"name":"rmGame","path":"rooms/rmGame/rmGame.yy",},},
     {"roomId":{"name":"rmMenu","path":"rooms/rmMenu/rmMenu.yy",},},
