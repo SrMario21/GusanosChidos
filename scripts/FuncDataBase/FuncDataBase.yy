@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"FuncDataBase",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"FuncDataBase",
+  "parent":{
+    "name":"Script_Mario",
+    "path":"folders/Script_Mario.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

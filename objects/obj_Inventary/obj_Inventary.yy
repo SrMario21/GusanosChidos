@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"Object1",
+  "%Name":"obj_Inventary",
   "eventList":[],
   "managed":true,
-  "name":"Object1",
+  "name":"obj_Inventary",
   "overriddenProperties":[],
   "parent":{
-    "name":"GusanosChidos",
-    "path":"GusanosChidos.yyp",
+    "name":"Objetos_Mario",
+    "path":"folders/Objetos_Mario.yy",
   },
   "parentObjectId":null,
   "persistent":false,
