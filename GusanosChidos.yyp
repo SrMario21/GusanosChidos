@@ -26,13 +26,11 @@
   "name":"GusanosChidos",
   "resources":[
     {"id":{"name":"obj_Controller","path":"objects/obj_Controller/obj_Controller.yy",},},
-    {"id":{"name":"obj_Inventary","path":"objects/obj_Inventary/obj_Inventary.yy",},},
     {"id":{"name":"obj_Mannager","path":"objects/obj_Mannager/obj_Mannager.yy",},},
     {"id":{"name":"obj_ParentItem","path":"objects/obj_ParentItem/obj_ParentItem.yy",},},
     {"id":{"name":"obj_Shop","path":"objects/obj_Shop/obj_Shop.yy",},},
     {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},},
     {"id":{"name":"obj_worm","path":"objects/obj_worm/obj_worm.yy",},},
-    {"id":{"name":"obj_worm_test","path":"objects/obj_worm_test/obj_worm_test.yy",},},
     {"id":{"name":"rmGame","path":"rooms/rmGame/rmGame.yy",},},
     {"id":{"name":"rmInit","path":"rooms/rmInit/rmInit.yy",},},
     {"id":{"name":"FuncDataBase","path":"scripts/FuncDataBase/FuncDataBase.yy",},},
