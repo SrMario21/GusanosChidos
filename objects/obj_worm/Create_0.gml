@@ -1,12 +1,12 @@
 
 
 // Salud
- hp_max = 100;
+ hp_max = random_range(100,150);
  hp = hp_max;
   
  //Combate
- damage = 25;
-cooldown_attack = 90;
+ damage = random_range(30,60);
+cooldown_attack = random_range(45, 90);
 can_attack = true;
 
 randomise()

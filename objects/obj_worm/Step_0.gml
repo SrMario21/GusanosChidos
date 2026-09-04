@@ -21,7 +21,7 @@ var _enemy = collision_circle(x, y, detection_range, obj_worm, false, true);
 mask_index = _previous_mask;
 
 // Si encontró a otro gusano
-if (_enemy != noone) {
+if (_enemy != noone && _enemy.state == "PATROL") {
     set_combat(_enemy)
 	_enemy.set_combat(id)
 }
