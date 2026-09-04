@@ -1,19 +1,19 @@
 {
   "$GMObject":"",
-  "%Name":"obj_Controller",
+  "%Name":"obj_ButtonMenu",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_Controller",
+  "name":"obj_ButtonMenu",
   "overriddenProperties":[],
   "parent":{
     "name":"Objetos_Mario",
     "path":"folders/Objetos_Mario.yy",
   },
   "parentObjectId":null,
-  "persistent":true,
+  "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
   "physicsFriction":0.2,
@@ -30,7 +30,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_Collsion",
+    "path":"sprites/spr_Collsion/spr_Collsion.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
