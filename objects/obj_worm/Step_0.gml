@@ -25,4 +25,9 @@ if (_enemy != noone) {
     set_combat(_enemy)
 	_enemy.set_combat(id)
 }
+break
+
+case "COMBAT": 
+chase_enemy()
+break
 }
