@@ -27,7 +27,7 @@
     {"id":{"name":"obj_Inventary","path":"objects/obj_Inventary/obj_Inventary.yy",},},
     {"id":{"name":"obj_Manager","path":"objects/obj_Manager/obj_Manager.yy",},},
     {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},},
-    {"id":{"name":"obj_worm_test","path":"objects/obj_worm_test/obj_worm_test.yy",},},
+    {"id":{"name":"obj_worm","path":"objects/obj_worm/obj_worm.yy",},},
     {"id":{"name":"Init","path":"rooms/Init/Init.yy",},},
     {"id":{"name":"FuncDataBase","path":"scripts/FuncDataBase/FuncDataBase.yy",},},
     {"id":{"name":"collision","path":"sprites/collision/collision.yy",},},

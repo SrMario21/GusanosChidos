@@ -16,7 +16,7 @@ image_yscale = size
 
 detection_range = 100;
 actual_enemy = noone;
-state = "PATROL"; //Estados "PATROL" Y "COMBATE"
+state = "PATROL"; //Estados "PATROL" Y "COMBAT"
 
 change_heading = function() {
     direction = random_range(0, 360);
@@ -33,3 +33,10 @@ change_heading = function() {
 };
 
 change_heading()
+
+set_combat = function(enemy) {
+	state = "COMBAT";
+	speed = 0
+	alarm_set(0, -1)
+	actual_enemy = enemy
+}
