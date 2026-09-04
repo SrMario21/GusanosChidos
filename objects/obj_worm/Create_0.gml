@@ -1,4 +1,7 @@
-
+// money
+money_value = 2;
+money_cooldown = 60 * 10
+alarm_set(2, money_cooldown)
 
 // Salud
  hp_max = random_range(100,150);
