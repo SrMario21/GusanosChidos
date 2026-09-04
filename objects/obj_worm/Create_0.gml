@@ -1,3 +1,5 @@
+
+
 // Salud
  hp_max = random_range(100,150);
  hp = hp_max;

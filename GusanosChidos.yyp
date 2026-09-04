@@ -8,7 +8,7 @@
     "children":[],
     "name":"Default",
   },
-  "defaultScriptType":0,
+  "defaultScriptType":1,
   "Folders":[
     {"$GMFolder":"","%Name":"Objetos_Mario","folderPath":"folders/Objetos_Mario.yy","name":"Objetos_Mario","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Rooms_Mario","folderPath":"folders/Rooms_Mario.yy","name":"Rooms_Mario","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -29,6 +29,9 @@
     {"id":{"name":"obj_Mannager","path":"objects/obj_Mannager/obj_Mannager.yy",},},
     {"id":{"name":"obj_ParentItem","path":"objects/obj_ParentItem/obj_ParentItem.yy",},},
     {"id":{"name":"obj_Shop","path":"objects/obj_Shop/obj_Shop.yy",},},
+    {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},},
+    {"id":{"name":"obj_worm","path":"objects/obj_worm/obj_worm.yy",},},
+    {"id":{"name":"rmBattle","path":"rooms/rmBattle/rmBattle.yy",},},
     {"id":{"name":"rmGame","path":"rooms/rmGame/rmGame.yy",},},
     {"id":{"name":"rmInit","path":"rooms/rmInit/rmInit.yy",},},
     {"id":{"name":"rmMenu","path":"rooms/rmMenu/rmMenu.yy",},},
@@ -42,6 +45,7 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
+    {"roomId":{"name":"rmBattle","path":"rooms/rmBattle/rmBattle.yy",},},
     {"roomId":{"name":"rmInit","path":"rooms/rmInit/rmInit.yy",},},
     {"roomId":{"name":"rmGame","path":"rooms/rmGame/rmGame.yy",},},
     {"roomId":{"name":"rmMenu","path":"rooms/rmMenu/rmMenu.yy",},},
