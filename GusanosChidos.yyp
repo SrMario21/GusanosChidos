@@ -9,7 +9,11 @@
     "name":"Default",
   },
   "defaultScriptType":0,
-  "Folders":[],
+  "Folders":[
+    {"$GMFolder":"","%Name":"Rooms_Mario","folderPath":"folders/Rooms_Mario.yy","name":"Rooms_Mario","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Objetos_Mario","folderPath":"folders/Objetos_Mario.yy","name":"Objetos_Mario","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Script_Mario","folderPath":"folders/Script_Mario.yy","name":"Script_Mario","resourceType":"GMFolder","resourceVersion":"2.0",},
+  ],
   "ForcedPrefabProjectReferences":[],
   "IncludedFiles":[],
   "isEcma":false,
@@ -19,13 +23,15 @@
   },
   "name":"GusanosChidos",
   "resources":[
-    {"id":{"name":"Object1","path":"objects/Object1/Object1.yy",},},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"obj_Inventary","path":"objects/obj_Inventary/obj_Inventary.yy",},},
+    {"id":{"name":"obj_Manager","path":"objects/obj_Manager/obj_Manager.yy",},},
+    {"id":{"name":"Init","path":"rooms/Init/Init.yy",},},
+    {"id":{"name":"FuncDataBase","path":"scripts/FuncDataBase/FuncDataBase.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"Init","path":"rooms/Init/Init.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
