@@ -33,6 +33,8 @@
   "spriteId":{
     "name":"collision",
     "path":"sprites/collision/collision.yy",
+    "name":"collision",
+    "path":"sprites/collision/collision.yy",
   },
   "spriteMaskId":null,
   "visible":true,
